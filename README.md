@@ -23,7 +23,7 @@ A software engineer focused on Android & Flutter.
   </a> 
   
   <a href="https://flutter.dev" target="_blank"> 
-    <img src="https://storage.googleapis.com/cms-storage-bucket/ec64036b4eacc9f3fd73.svg" alt="dart" width="40" height="40"/> 
+    <img src="https://raw.githubusercontent.com/penkzhou/penkzhou/main/flutter-svgrepo-com.svg" alt="dart" width="40" height="40"/> 
   </a> 
 </p>
 
