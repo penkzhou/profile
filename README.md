@@ -19,7 +19,7 @@ A software engineer focused on Android & Flutter.
     <img src="https://www.vectorlogo.zone/logos/kotlinlang/kotlinlang-icon.svg" alt="kotlin" width="40" height="40"/> 
   </a> 
   <a href="https://dart.dev" target="_blank"> 
-    <img src="https://dart.dev/assets/img/logo/logo-white-text.svg" alt="dart" width="40" height="40"/> 
+    <img src="https://raw.githubusercontent.com/penkzhou/penkzhou/main/Dart-logo-icon.svg" alt="dart" width="40" height="40"/> 
   </a> 
   
   <a href="https://flutter.dev" target="_blank"> 
