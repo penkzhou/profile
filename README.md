@@ -11,6 +11,20 @@ A software engineer focused on Android & Flutter.
 </p>
 
 ### Languages and Tools
-<p align="left"> <a href="https://developer.android.com" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="android" width="40" height="40"/> </a> <a href="https://kotlinlang.org" target="_blank"> <img src="https://www.vectorlogo.zone/logos/kotlinlang/kotlinlang-icon.svg" alt="kotlin" width="40" height="40"/> </a> </p>
+<p align="left"> 
+  <a href="https://developer.android.com" target="_blank"> 
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="android" width="40" height="40"/> 
+  </a> 
+  <a href="https://kotlinlang.org" target="_blank"> 
+    <img src="https://www.vectorlogo.zone/logos/kotlinlang/kotlinlang-icon.svg" alt="kotlin" width="40" height="40"/> 
+  </a> 
+  <a href="https://dart.dev" target="_blank"> 
+    <img src="https://dart.dev/assets/img/logo/logo-white-text.svg" alt="dart" width="40" height="40"/> 
+  </a> 
+  
+  <a href="https://flutter.dev" target="_blank"> 
+    <img src="https://storage.googleapis.com/cms-storage-bucket/ec64036b4eacc9f3fd73.svg" alt="dart" width="40" height="40"/> 
+  </a> 
+</p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=penkzhou&show_icons=true&locale=en" alt="chrisbanes" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=penkzhou&show_icons=true&locale=en" alt="penkzhou" /></p>
